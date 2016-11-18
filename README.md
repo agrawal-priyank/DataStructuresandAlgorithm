@@ -10,3 +10,7 @@ This is an online course which I completed in Summer 2016. The programming assig
 
 # Certifcate of Completion
 Please visit this link: https://www.coursera.org/account/accomplishments/verify/687GN7EN76XP
+
+# Environment
+Programming Language: Java
+IDE: Eclipse Neon
