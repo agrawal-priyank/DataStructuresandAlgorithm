@@ -1,11 +1,10 @@
-# Data Structures and Algorithm MOOC - Coursera
+# Data Structures and Algorithms MOOC - Coursera
 By: University of California, San Diego
 
 # Description
-This is an online course which I completed in Summer 2016. The programming assignments enabled to solve different problems using
-different algorithmic design patters mainly with the following three approaches:
+This is an online course which I completed in Summer 2016. The programming assignments of this course enabled me to solve different problems using different algorithmic design patters mainly with the following three approaches:
 
-1. Greedy
+1. Greedy Algorithm
 2. Divide and Conquer
 3. Dynamic Programming
 
