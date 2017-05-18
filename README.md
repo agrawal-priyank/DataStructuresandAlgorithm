@@ -1,4 +1,4 @@
-### Data Structures and Algorithms MOOC - Coursera
+## Data Structures and Algorithms MOOC - Coursera
 By: University of California, San Diego
 
 ### Description
