@@ -1,8 +1,8 @@
-## Data Structures and Algorithms MOOC - Coursera
-By: University of California, San Diego
+## Data Structures and Algorithms - Algorithmic Toolbox
+MOOC: [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 
 ### Description
-This is an online course which I completed in Summer 2016. The programming assignments of this course enabled me to solve various problems using different algorithmic design patterns.
+* This repository contains the programming assignments that I completed during pursuing this MOOC on Coursera.
 
 ### Code
 1. [Greedy Algorithm](https://github.com/agrawal-priyank/data-structures-and-algorithms-coursera/tree/master/Algorithmic%20Toolbox/Programming%20Assignment%20-%202%20Greedy%20Algorithms)
